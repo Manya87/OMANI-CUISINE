@@ -20,12 +20,8 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Original and duplicate image collections
-collected_images/
-cleaned_candidate/
 
 # Temporary files
 *.tmp
 *.log
-dataset_split/
-models/
+
