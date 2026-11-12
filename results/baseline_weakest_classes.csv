@@ -1,0 +1,16 @@
+,precision,recall,f1-score,support
+non_vegetarian/chicken_harees,0.0,0.0,0.0,3.0
+non_vegetarian/chicken_majboos,0.0,0.0,0.0,5.0
+non_vegetarian/fish_majboos,0.0,0.0,0.0,5.0
+non_vegetarian/khambasha,0.0,0.0,0.0,4.0
+non_vegetarian/maraq_maajeen,0.0,0.0,0.0,5.0
+non_vegetarian/lamb_majboos,0.0,0.0,0.0,1.0
+non_vegetarian/marqat_al_dijaj,0.0,0.0,0.0,4.0
+non_vegetarian/maraq_mashakik,0.0,0.0,0.0,5.0
+non_vegetarian/omani_harees,0.0,0.0,0.0,4.0
+non_vegetarian/omani_fried_fish,0.0,0.0,0.0,4.0
+non_vegetarian/marqat_pablo,0.0,0.0,0.0,4.0
+non_vegetarian/muqalab,0.0,0.0,0.0,2.0
+non_vegetarian/omani_kebab,0.0,0.0,0.0,4.0
+non_vegetarian/salqat_al_dijaj,0.0,0.0,0.0,4.0
+non_vegetarian/omani_mashuai,0.0,0.0,0.0,3.0

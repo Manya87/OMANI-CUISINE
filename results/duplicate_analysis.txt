@@ -1,0 +1,510 @@
+SAME CLASS DUPLICATES
+
+
+CROSS CLASS DUPLICATES
+
+Copies: 2
+vegetarian/ajar_eggplant/000010.jpg
+vegetarian/albadhinajan_mae_tawarikh/000005.jpg
+
+Copies: 2
+vegetarian/ajar_eggplant/000018.jpg
+vegetarian/albadhinajan_mae_tawarikh/000013.jpg
+
+Copies: 2
+vegetarian/albadhinajan_mae_tawarikh/000015.jpg
+vegetarian/dates/000008.jpg
+
+Copies: 4
+vegetarian/albessisa/000001.jpg
+vegetarian/khabees/000004.jpg
+non_vegetarian/khambasha/000001.jpg
+non_vegetarian/omani_qabooli/000011.jpg
+
+Copies: 3
+vegetarian/albessisa/000002.jpg
+vegetarian/khabees/000010.jpg
+non_vegetarian/khambasha/000002.jpg
+
+Copies: 4
+vegetarian/albessisa/000003.jpg
+vegetarian/khabees/000020.jpg
+non_vegetarian/khambasha/000019.jpg
+non_vegetarian/omani_qabooli/000018.jpg
+
+Copies: 2
+vegetarian/albessisa/000004.jpg
+non_vegetarian/khambasha/000021.jpg
+
+Copies: 2
+vegetarian/albessisa/000005.jpg
+non_vegetarian/maraq_mashakik/000015.jpg
+
+Copies: 4
+vegetarian/albessisa/000007.jpg
+vegetarian/khabees/000021.jpg
+non_vegetarian/maraq_maajeen/000007.jpg
+non_vegetarian/omani_qabooli/000013.jpg
+
+Copies: 2
+vegetarian/albessisa/000013.jpg
+non_vegetarian/omani_qabooli/000014.jpg
+
+Copies: 3
+vegetarian/albessisa/000015.jpg
+vegetarian/albessisa/000024.jpg
+non_vegetarian/khambasha/000009.jpg
+
+Copies: 3
+vegetarian/albessisa/000016.jpg
+vegetarian/khabees/000003.jpg
+vegetarian/khabissa_bil_findal/000007.jpg
+
+Copies: 2
+vegetarian/albessisa/000018.jpg
+non_vegetarian/khambasha/000013.jpg
+
+Copies: 3
+vegetarian/albessisa_coconut/000018.jpg
+vegetarian/halwa_with_nuts/000009.jpg
+vegetarian/omani_halva/000020.jpg
+
+Copies: 3
+vegetarian/alrazya/000002.jpg
+vegetarian/sakhana/000001.jpg
+non_vegetarian/muqalab/000006.jpg
+
+Copies: 3
+vegetarian/alrazya/000004.jpg
+vegetarian/sakhana/000005.jpg
+non_vegetarian/omani_kebab/000018.jpg
+
+Copies: 2
+vegetarian/alrazya/000007.jpg
+vegetarian/sakhana/000007.jpg
+
+Copies: 2
+vegetarian/alrazya/000008.jpg
+vegetarian/sakhana/000008.jpg
+
+Copies: 2
+vegetarian/alrazya/000010.jpg
+non_vegetarian/muqalab/000003.jpg
+
+Copies: 2
+vegetarian/alrazya/000011.jpg
+vegetarian/sakhana/000012.jpg
+
+Copies: 3
+vegetarian/alrazya/000013.jpg
+non_vegetarian/khambasha/000010.jpg
+non_vegetarian/omani_kebab/000020.jpg
+
+Copies: 2
+vegetarian/dengu_mqashad/000002.jpg
+non_vegetarian/maraq_maajeen/000008.jpg
+
+Copies: 2
+vegetarian/dengu_mqashad/000003.jpg
+non_vegetarian/omani_mashuai/000001.jpg
+
+Copies: 3
+vegetarian/dengu_mqashad/000010.jpg
+vegetarian/dengu_mqashad/000013.jpg
+non_vegetarian/maraq_mashakik/000008.jpg
+
+Copies: 2
+vegetarian/dengu_mqashad/000012.jpg
+non_vegetarian/maraq_mashakik/000025.jpg
+
+Copies: 3
+vegetarian/dengu_mqashad/000014.jpg
+non_vegetarian/maraq_maajeen/000010.jpg
+non_vegetarian/maraq_mashakik/000020.jpg
+
+Copies: 2
+vegetarian/garlic_jareesh/000014.jpg
+non_vegetarian/omani_harees/000003.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000001.jpg
+vegetarian/halwa_with_nuts/000006.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000003.jpg
+vegetarian/halwa_with_saffron/000014.jpg
+
+Copies: 3
+vegetarian/halwa_with_dates/000004.jpg
+vegetarian/halwa_with_nuts/000022.jpg
+vegetarian/halwa_with_saffron/000004.jpg
+
+Copies: 4
+vegetarian/halwa_with_dates/000005.jpg
+vegetarian/halwa_with_nuts/000002.jpg
+vegetarian/halwa_with_saffron/000001.jpg
+vegetarian/omani_halva/000002.jpg
+
+Copies: 3
+vegetarian/halwa_with_dates/000008.jpg
+vegetarian/halwa_with_nuts/000017.jpg
+vegetarian/omani_halva/000003.jpg
+
+Copies: 4
+vegetarian/halwa_with_dates/000009.jpg
+vegetarian/halwa_with_nuts/000008.jpg
+vegetarian/halwa_with_saffron/000007.jpg
+vegetarian/omani_halva/000001.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000013.jpg
+vegetarian/halwa_with_nuts/000012.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000014.jpg
+vegetarian/halwa_with_saffron/000010.jpg
+
+Copies: 3
+vegetarian/halwa_with_dates/000016.jpg
+vegetarian/halwa_with_saffron/000019.jpg
+vegetarian/omani_halva/000017.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000017.jpg
+vegetarian/halwa_with_saffron/000024.jpg
+
+Copies: 3
+vegetarian/halwa_with_dates/000020.jpg
+vegetarian/halwa_with_nuts/000007.jpg
+vegetarian/omani_halva/000005.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000021.jpg
+vegetarian/omani_halva/000011.jpg
+
+Copies: 2
+vegetarian/halwa_with_dates/000023.jpg
+vegetarian/omani_halva/000016.jpg
+
+Copies: 3
+vegetarian/halwa_with_dates/000024.jpg
+vegetarian/halwa_with_saffron/000015.jpg
+vegetarian/omani_halva/000013.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000003.jpg
+vegetarian/halwa_with_saffron/000005.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000010.jpg
+vegetarian/halwa_with_saffron/000012.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000011.jpg
+vegetarian/halwa_with_saffron/000008.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000014.jpg
+vegetarian/halwa_with_saffron/000017.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000015.jpg
+vegetarian/halwa_with_saffron/000023.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000016.jpg
+vegetarian/halwa_with_saffron/000011.jpg
+
+Copies: 3
+vegetarian/halwa_with_nuts/000019.jpg
+vegetarian/halwa_with_saffron/000009.jpg
+vegetarian/omani_halva/000010.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000020.jpg
+vegetarian/omani_halva/000018.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000021.jpg
+vegetarian/halwa_with_saffron/000021.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000023.jpg
+vegetarian/omani_halva/000008.jpg
+
+Copies: 2
+vegetarian/halwa_with_nuts/000025.jpg
+vegetarian/halwa_with_saffron/000016.jpg
+
+Copies: 2
+vegetarian/halwa_with_saffron/000022.jpg
+vegetarian/omani_halva/000012.jpg
+
+Copies: 2
+vegetarian/khabees/000001.jpg
+vegetarian/khabissa_bil_findal/000002.jpg
+
+Copies: 2
+vegetarian/khabees/000015.jpg
+vegetarian/khabissa_bil_findal/000008.jpg
+
+Copies: 2
+vegetarian/khabees/000018.jpg
+vegetarian/khabissa_bil_findal/000006.jpg
+
+Copies: 2
+vegetarian/khabissa_bil_findal/000011.jpg
+vegetarian/rice_with_saffron/000015.jpg
+
+Copies: 3
+vegetarian/khubz_rakhal/000001.jpg
+vegetarian/mushaltat/000022.jpg
+vegetarian/omani_bread/000003.jpg
+
+Copies: 2
+vegetarian/khubz_rakhal/000003.jpg
+vegetarian/omani_bread/000001.jpg
+
+Copies: 2
+vegetarian/khubz_rakhal/000005.jpg
+vegetarian/omani_bread/000011.jpg
+
+Copies: 2
+vegetarian/khubz_rakhal/000007.jpg
+vegetarian/omani_bread/000006.jpg
+
+Copies: 3
+vegetarian/khubz_rakhal/000016.jpg
+vegetarian/mushaltat/000010.jpg
+vegetarian/omani_bread/000012.jpg
+
+Copies: 2
+vegetarian/khubz_rakhal/000019.jpg
+vegetarian/omani_bread/000015.jpg
+
+Copies: 2
+vegetarian/marqat_al_dal/000016.jpg
+vegetarian/shorbat_adas/000004.jpg
+
+Copies: 2
+vegetarian/mushaltat/000011.jpg
+vegetarian/omani_bread/000004.jpg
+
+Copies: 2
+vegetarian/mushaltat/000018.jpg
+vegetarian/omani_bread/000010.jpg
+
+Copies: 2
+vegetarian/omani_kahwa/000002.jpg
+non_vegetarian/omani_kebab/000021.jpg
+
+Copies: 2
+vegetarian/rice_with_onion/000005.jpg
+non_vegetarian/marqat_al_dijaj/000014.jpg
+
+Copies: 2
+vegetarian/rice_with_onion/000009.jpg
+vegetarian/sakhana/000010.jpg
+
+Copies: 2
+vegetarian/rice_with_onion/000018.jpg
+non_vegetarian/camel_qabooli/000003.jpg
+
+Copies: 3
+vegetarian/rice_with_onion/000020.jpg
+non_vegetarian/omani_kebab/000019.jpg
+non_vegetarian/salqat_al_dijaj/000006.jpg
+
+Copies: 2
+non_vegetarian/camel_qabooli/000007.jpg
+non_vegetarian/omani_qabooli/000008.jpg
+
+Copies: 2
+non_vegetarian/camel_qabooli/000013.jpg
+non_vegetarian/omani_kebab/000005.jpg
+
+Copies: 2
+non_vegetarian/camel_qabooli/000015.jpg
+non_vegetarian/omani_qabooli/000010.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000002.jpg
+non_vegetarian/omani_harees/000015.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000003.jpg
+non_vegetarian/omani_harees/000001.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000004.jpg
+non_vegetarian/omani_harees/000004.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000005.jpg
+non_vegetarian/omani_harees/000010.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000009.jpg
+non_vegetarian/omani_harees/000008.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000014.jpg
+non_vegetarian/omani_harees/000016.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000015.jpg
+non_vegetarian/omani_harees/000013.jpg
+
+Copies: 2
+non_vegetarian/chicken_harees/000017.jpg
+non_vegetarian/omani_harees/000006.jpg
+
+Copies: 2
+non_vegetarian/chicken_majboos/000001.jpg
+non_vegetarian/omani_majboos/000001.jpg
+
+Copies: 3
+non_vegetarian/chicken_majboos/000002.jpg
+non_vegetarian/fish_majboos/000015.jpg
+non_vegetarian/omani_majboos/000007.jpg
+
+Copies: 2
+non_vegetarian/chicken_majboos/000003.jpg
+non_vegetarian/fish_majboos/000013.jpg
+
+Copies: 2
+non_vegetarian/chicken_majboos/000006.jpg
+non_vegetarian/omani_majboos/000005.jpg
+
+Copies: 2
+non_vegetarian/chicken_majboos/000007.jpg
+non_vegetarian/omani_majboos/000009.jpg
+
+Copies: 4
+non_vegetarian/chicken_majboos/000008.jpg
+non_vegetarian/fish_majboos/000001.jpg
+non_vegetarian/lamb_majboos/000003.jpg
+non_vegetarian/omani_majboos/000003.jpg
+
+Copies: 2
+non_vegetarian/fish_majboos/000014.jpg
+non_vegetarian/lamb_majboos/000004.jpg
+
+Copies: 2
+non_vegetarian/fish_majboos/000016.jpg
+non_vegetarian/omani_majboos/000011.jpg
+
+Copies: 3
+non_vegetarian/khambasha/000007.jpg
+non_vegetarian/maraq_mashakik/000019.jpg
+non_vegetarian/omani_qabooli/000015.jpg
+
+Copies: 2
+non_vegetarian/lamb_majboos/000006.jpg
+non_vegetarian/omani_majboos/000002.jpg
+
+Copies: 2
+non_vegetarian/mahmas_laham/000016.jpg
+non_vegetarian/muqalab/000004.jpg
+
+Copies: 2
+non_vegetarian/mahmas_laham/000017.jpg
+non_vegetarian/omani_shuwa/000002.jpg
+
+Copies: 2
+non_vegetarian/maraq_maajeen/000001.jpg
+non_vegetarian/maraq_mashakik/000001.jpg
+
+Copies: 2
+non_vegetarian/maraq_maajeen/000017.jpg
+non_vegetarian/maraq_mashakik/000013.jpg
+
+Copies: 2
+non_vegetarian/maraq_maajeen/000022.jpg
+non_vegetarian/maraq_mashakik/000021.jpg
+
+Copies: 2
+non_vegetarian/maraq_mashakik/000003.jpg
+non_vegetarian/omani_mishkak/000007.jpg
+
+Copies: 2
+non_vegetarian/maraq_mashakik/000006.jpg
+non_vegetarian/omani_mishkak/000001.jpg
+
+Copies: 4
+non_vegetarian/marqat_al_dijaj/000001.jpg
+non_vegetarian/marqat_dijaj_narjeel/000012.jpg
+non_vegetarian/marqat_pablo/000016.jpg
+non_vegetarian/salqat_al_dijaj/000002.jpg
+
+Copies: 2
+non_vegetarian/marqat_al_dijaj/000004.jpg
+non_vegetarian/salqat_al_dijaj/000008.jpg
+
+Copies: 2
+non_vegetarian/marqat_al_dijaj/000006.jpg
+non_vegetarian/salqat_al_dijaj/000004.jpg
+
+Copies: 2
+non_vegetarian/marqat_al_dijaj/000007.jpg
+non_vegetarian/marqat_dijaj_narjeel/000013.jpg
+
+Copies: 2
+non_vegetarian/marqat_al_dijaj/000008.jpg
+non_vegetarian/salqat_al_dijaj/000007.jpg
+
+Copies: 2
+non_vegetarian/marqat_al_dijaj/000012.jpg
+non_vegetarian/salqat_al_dijaj/000010.jpg
+
+Copies: 3
+non_vegetarian/marqat_pablo/000001.jpg
+non_vegetarian/omani_fried_fish/000009.jpg
+non_vegetarian/salqat_al_samak/000003.jpg
+
+Copies: 2
+non_vegetarian/marqat_pablo/000002.jpg
+non_vegetarian/salqat_al_samak/000006.jpg
+
+Copies: 2
+non_vegetarian/marqat_pablo/000003.jpg
+non_vegetarian/salqat_al_samak/000001.jpg
+
+Copies: 2
+non_vegetarian/marqat_pablo/000009.jpg
+non_vegetarian/omani_fried_fish/000015.jpg
+
+Copies: 2
+non_vegetarian/marqat_pablo/000011.jpg
+non_vegetarian/salqat_al_samak/000004.jpg
+
+Copies: 2
+non_vegetarian/omani_fried_fish/000003.jpg
+non_vegetarian/samak_mtafai/000013.jpg
+
+Copies: 2
+non_vegetarian/omani_fried_fish/000008.jpg
+non_vegetarian/samak_mtafai/000012.jpg
+
+Copies: 2
+non_vegetarian/omani_fried_fish/000010.jpg
+non_vegetarian/omani_mashuai/000010.jpg
+
+Copies: 3
+non_vegetarian/omani_fried_fish/000011.jpg
+non_vegetarian/omani_mashuai/000002.jpg
+non_vegetarian/salqat_al_samak/000007.jpg
+
+Copies: 2
+non_vegetarian/omani_fried_fish/000013.jpg
+non_vegetarian/omani_mashuai/000008.jpg
+
+Copies: 3
+non_vegetarian/omani_fried_fish/000018.jpg
+non_vegetarian/omani_mashuai/000015.jpg
+non_vegetarian/samak_mtafai/000015.jpg
+
+Copies: 2
+non_vegetarian/omani_majboos/000010.jpg
+non_vegetarian/omani_shuwa/000025.jpg
+

@@ -1,0 +1,503 @@
+
+GROUP 1
+vegetarian/ajar_eggplant
+vegetarian/albadhinajan_mae_tawarikh
+
+GROUP 2
+vegetarian/ajar_eggplant
+vegetarian/albadhinajan_mae_tawarikh
+
+GROUP 3
+vegetarian/albadhinajan_mae_tawarikh
+vegetarian/dates
+
+GROUP 4
+non_vegetarian/khambasha
+non_vegetarian/omani_qabooli
+vegetarian/albessisa
+vegetarian/khabees
+
+GROUP 5
+non_vegetarian/khambasha
+vegetarian/albessisa
+vegetarian/khabees
+
+GROUP 6
+non_vegetarian/khambasha
+non_vegetarian/omani_qabooli
+vegetarian/albessisa
+vegetarian/khabees
+
+GROUP 7
+non_vegetarian/khambasha
+vegetarian/albessisa
+
+GROUP 8
+non_vegetarian/maraq_mashakik
+vegetarian/albessisa
+
+GROUP 9
+non_vegetarian/maraq_maajeen
+non_vegetarian/omani_qabooli
+vegetarian/albessisa
+vegetarian/khabees
+
+GROUP 10
+non_vegetarian/omani_qabooli
+vegetarian/albessisa
+
+GROUP 11
+non_vegetarian/khambasha
+vegetarian/albessisa
+
+GROUP 12
+vegetarian/albessisa
+vegetarian/khabees
+vegetarian/khabissa_bil_findal
+
+GROUP 13
+non_vegetarian/khambasha
+vegetarian/albessisa
+
+GROUP 14
+vegetarian/albessisa_coconut
+vegetarian/halwa_with_nuts
+vegetarian/omani_halva
+
+GROUP 15
+non_vegetarian/muqalab
+vegetarian/alrazya
+vegetarian/sakhana
+
+GROUP 16
+non_vegetarian/omani_kebab
+vegetarian/alrazya
+vegetarian/sakhana
+
+GROUP 17
+vegetarian/alrazya
+vegetarian/sakhana
+
+GROUP 18
+vegetarian/alrazya
+vegetarian/sakhana
+
+GROUP 19
+non_vegetarian/muqalab
+vegetarian/alrazya
+
+GROUP 20
+vegetarian/alrazya
+vegetarian/sakhana
+
+GROUP 21
+non_vegetarian/khambasha
+non_vegetarian/omani_kebab
+vegetarian/alrazya
+
+GROUP 22
+non_vegetarian/maraq_maajeen
+vegetarian/dengu_mqashad
+
+GROUP 23
+non_vegetarian/omani_mashuai
+vegetarian/dengu_mqashad
+
+GROUP 24
+non_vegetarian/maraq_mashakik
+vegetarian/dengu_mqashad
+
+GROUP 25
+non_vegetarian/maraq_mashakik
+vegetarian/dengu_mqashad
+
+GROUP 26
+non_vegetarian/maraq_maajeen
+non_vegetarian/maraq_mashakik
+vegetarian/dengu_mqashad
+
+GROUP 27
+non_vegetarian/omani_harees
+vegetarian/garlic_jareesh
+
+GROUP 28
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+
+GROUP 29
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_saffron
+
+GROUP 30
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 31
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 32
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+vegetarian/omani_halva
+
+GROUP 33
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 34
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+
+GROUP 35
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_saffron
+
+GROUP 36
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 37
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_saffron
+
+GROUP 38
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_nuts
+vegetarian/omani_halva
+
+GROUP 39
+vegetarian/halwa_with_dates
+vegetarian/omani_halva
+
+GROUP 40
+vegetarian/halwa_with_dates
+vegetarian/omani_halva
+
+GROUP 41
+vegetarian/halwa_with_dates
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 42
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 43
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 44
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 45
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 46
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 47
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 48
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 49
+vegetarian/halwa_with_nuts
+vegetarian/omani_halva
+
+GROUP 50
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 51
+vegetarian/halwa_with_nuts
+vegetarian/omani_halva
+
+GROUP 52
+vegetarian/halwa_with_nuts
+vegetarian/halwa_with_saffron
+
+GROUP 53
+vegetarian/halwa_with_saffron
+vegetarian/omani_halva
+
+GROUP 54
+vegetarian/khabees
+vegetarian/khabissa_bil_findal
+
+GROUP 55
+vegetarian/khabees
+vegetarian/khabissa_bil_findal
+
+GROUP 56
+vegetarian/khabees
+vegetarian/khabissa_bil_findal
+
+GROUP 57
+vegetarian/khabissa_bil_findal
+vegetarian/rice_with_saffron
+
+GROUP 58
+vegetarian/khubz_rakhal
+vegetarian/mushaltat
+vegetarian/omani_bread
+
+GROUP 59
+vegetarian/khubz_rakhal
+vegetarian/omani_bread
+
+GROUP 60
+vegetarian/khubz_rakhal
+vegetarian/omani_bread
+
+GROUP 61
+vegetarian/khubz_rakhal
+vegetarian/omani_bread
+
+GROUP 62
+vegetarian/khubz_rakhal
+vegetarian/mushaltat
+vegetarian/omani_bread
+
+GROUP 63
+vegetarian/khubz_rakhal
+vegetarian/omani_bread
+
+GROUP 64
+vegetarian/marqat_al_dal
+vegetarian/shorbat_adas
+
+GROUP 65
+vegetarian/mushaltat
+vegetarian/omani_bread
+
+GROUP 66
+vegetarian/mushaltat
+vegetarian/omani_bread
+
+GROUP 67
+non_vegetarian/omani_kebab
+vegetarian/omani_kahwa
+
+GROUP 68
+non_vegetarian/marqat_al_dijaj
+vegetarian/rice_with_onion
+
+GROUP 69
+vegetarian/rice_with_onion
+vegetarian/sakhana
+
+GROUP 70
+non_vegetarian/camel_qabooli
+vegetarian/rice_with_onion
+
+GROUP 71
+non_vegetarian/omani_kebab
+non_vegetarian/salqat_al_dijaj
+vegetarian/rice_with_onion
+
+GROUP 72
+non_vegetarian/camel_qabooli
+non_vegetarian/omani_qabooli
+
+GROUP 73
+non_vegetarian/camel_qabooli
+non_vegetarian/omani_kebab
+
+GROUP 74
+non_vegetarian/camel_qabooli
+non_vegetarian/omani_qabooli
+
+GROUP 75
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 76
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 77
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 78
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 79
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 80
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 81
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 82
+non_vegetarian/chicken_harees
+non_vegetarian/omani_harees
+
+GROUP 83
+non_vegetarian/chicken_majboos
+non_vegetarian/omani_majboos
+
+GROUP 84
+non_vegetarian/chicken_majboos
+non_vegetarian/fish_majboos
+non_vegetarian/omani_majboos
+
+GROUP 85
+non_vegetarian/chicken_majboos
+non_vegetarian/fish_majboos
+
+GROUP 86
+non_vegetarian/chicken_majboos
+non_vegetarian/omani_majboos
+
+GROUP 87
+non_vegetarian/chicken_majboos
+non_vegetarian/omani_majboos
+
+GROUP 88
+non_vegetarian/chicken_majboos
+non_vegetarian/fish_majboos
+non_vegetarian/lamb_majboos
+non_vegetarian/omani_majboos
+
+GROUP 89
+non_vegetarian/fish_majboos
+non_vegetarian/lamb_majboos
+
+GROUP 90
+non_vegetarian/fish_majboos
+non_vegetarian/omani_majboos
+
+GROUP 91
+non_vegetarian/khambasha
+non_vegetarian/maraq_mashakik
+non_vegetarian/omani_qabooli
+
+GROUP 92
+non_vegetarian/lamb_majboos
+non_vegetarian/omani_majboos
+
+GROUP 93
+non_vegetarian/mahmas_laham
+non_vegetarian/muqalab
+
+GROUP 94
+non_vegetarian/mahmas_laham
+non_vegetarian/omani_shuwa
+
+GROUP 95
+non_vegetarian/maraq_maajeen
+non_vegetarian/maraq_mashakik
+
+GROUP 96
+non_vegetarian/maraq_maajeen
+non_vegetarian/maraq_mashakik
+
+GROUP 97
+non_vegetarian/maraq_maajeen
+non_vegetarian/maraq_mashakik
+
+GROUP 98
+non_vegetarian/maraq_mashakik
+non_vegetarian/omani_mishkak
+
+GROUP 99
+non_vegetarian/maraq_mashakik
+non_vegetarian/omani_mishkak
+
+GROUP 100
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/marqat_dijaj_narjeel
+non_vegetarian/marqat_pablo
+non_vegetarian/salqat_al_dijaj
+
+GROUP 101
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/salqat_al_dijaj
+
+GROUP 102
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/salqat_al_dijaj
+
+GROUP 103
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/marqat_dijaj_narjeel
+
+GROUP 104
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/salqat_al_dijaj
+
+GROUP 105
+non_vegetarian/marqat_al_dijaj
+non_vegetarian/salqat_al_dijaj
+
+GROUP 106
+non_vegetarian/marqat_pablo
+non_vegetarian/omani_fried_fish
+non_vegetarian/salqat_al_samak
+
+GROUP 107
+non_vegetarian/marqat_pablo
+non_vegetarian/salqat_al_samak
+
+GROUP 108
+non_vegetarian/marqat_pablo
+non_vegetarian/salqat_al_samak
+
+GROUP 109
+non_vegetarian/marqat_pablo
+non_vegetarian/omani_fried_fish
+
+GROUP 110
+non_vegetarian/marqat_pablo
+non_vegetarian/salqat_al_samak
+
+GROUP 111
+non_vegetarian/omani_fried_fish
+non_vegetarian/samak_mtafai
+
+GROUP 112
+non_vegetarian/omani_fried_fish
+non_vegetarian/samak_mtafai
+
+GROUP 113
+non_vegetarian/omani_fried_fish
+non_vegetarian/omani_mashuai
+
+GROUP 114
+non_vegetarian/omani_fried_fish
+non_vegetarian/omani_mashuai
+non_vegetarian/salqat_al_samak
+
+GROUP 115
+non_vegetarian/omani_fried_fish
+non_vegetarian/omani_mashuai
+
+GROUP 116
+non_vegetarian/omani_fried_fish
+non_vegetarian/omani_mashuai
+non_vegetarian/samak_mtafai
+
+GROUP 117
+non_vegetarian/omani_majboos
+non_vegetarian/omani_shuwa
